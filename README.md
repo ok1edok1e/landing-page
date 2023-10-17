@@ -1,4 +1,4 @@
-![Odin Project - Foundation](https://github.com/ok1edok1e/landing-page/blob/main/assets/preview.jpg?raw=true)
+![Odin Project - Foundation](https://github.com/ok1edok1e/landing-page/blob/main/assets/github-preview.webp?raw=true)
 
 <h1 align="center">Foundation - Landing page</h1>
 <p align="center">
