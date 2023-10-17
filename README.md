@@ -1,6 +1,6 @@
 ![Odin Project - Foundation](https://github.com/ok1edok1e/landing-page/blob/main/assets/github-preview.webp?raw=true)
 
-<h1 align="center">Foundation - Landing page</h1>
+<h1 align="center">F O U N D A T I O N</h1>
 <p align="center">
   <strong>The Second project</strong> <em>from</em> Foundation Course
 <em>of</em> <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a>.
@@ -13,15 +13,16 @@
 <br>
 
 <p align="center">
-  <a href="#introduction">Introduction</a> ·
-  <a href="#goals">Goals</a> ·
-  <a href="#process">Process</a> ·
+  <a href="#introduction">INTRODUCTION</a> ·
+  <a href="#goals">GOALS</a> ·
+  <a href="#design">DESIGN</a> ·
+  <a href="#process">PROCESS</a> ·
   <a href="#inner-page">Inner page</a>
 </p>
 
 <br>
 
-## Introduction
+## INTRODUCTION
 ```
 
     Math is never just numbers. In the wrong hands, it's a weapon. In the right hands, deliverance.
@@ -34,11 +35,32 @@ I present my **Second project** from **Foundation Course** for <a href="https://
 
 <br>
 
-## Goals
+## GOALS
 
 This project aimed to create a **"Landing page"** on any interesting topic using `HTML`, `CSS`, and `JavaScript` (optional). The site must contain a `header`, `footer`, and four content `sections`. 
 
 <br>
+
+## DESIGN
+
+### Wireframe
+
+Before starting the project, a **Wireframe** was made to understand the general structure of `sections` and `elements`. This step helped clarify the **idea** and **hierarchy** of the `HTML` page.
+
+<br>
+
+![Foundation - Wireframe](https://github.com/ok1edok1e/landing-page/blob/main/assets/github-wireframe.webp?raw=true)
+
+<br>
+
+### Styleguide
+
+Also, to understand the visual style and states of `elements` on the page, a **Style guide** was created. This step helped simplify the creation of `variables` in `CSS`.
+
+<br>
+
+![Foundation - Styleguide](https://github.com/ok1edok1e/landing-page/blob/main/assets/github-styleguide.webp?raw=true)
+
 
 ## Process
 
