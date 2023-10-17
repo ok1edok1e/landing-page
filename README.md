@@ -21,3 +21,12 @@
 <br>
 
 ## Introduction
+```
+
+    Math is never just numbers. In the wrong hands, it's a weapon. In the right hands, deliverance.
+
+    - Hari Seldon, Professor of Probability Theory at Streeling University
+
+```
+
+I present my <b>Second project</b> from Foundation Course for The Odin Project.
