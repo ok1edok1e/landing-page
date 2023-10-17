@@ -25,9 +25,10 @@
 ## INTRODUCTION
 ```
 
-    Math is never just numbers. In the wrong hands, it's a weapon. In the right hands, deliverance.
+      Math is never just numbers. In the wrong hands, it's a weapon. In the right hands, deliverance.
 
-    - Hari Seldon, Professor of Probability Theory at Streeling University
+      HARI SELDON
+      Professor of Probability Theory at Streeling University
 
 ```
 
@@ -84,4 +85,4 @@ A **Banner** has also been added to offer promotions. This `element` was develop
 
 ## Process
 
-I started with a blank `HTML` page, adding all the content elements. Then I added a `CSS` file for the styles. As I created the `sections`, I had to learn a lot of new information on CSS and delve a little deeper into JavaScript to create the `navigation bar`, `banner`, and `video`.
+I started with a blank `HTML` page, adding all the content elements. Then I added a `CSS` file for the styles. As I created the `sections`, I had to learn a lot of new information on `CSS` and delve a little deeper into `JavaScript` to create the `navigation bar`, `banner`, and `video`.
