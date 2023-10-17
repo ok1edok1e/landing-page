@@ -14,7 +14,8 @@
 
 <p align="center">
   <a href="#introduction">Introduction</a> ·
-  <a href="#main-page">Main page</a> ·
+  <a href="#goals">Goals</a> ·
+  <a href="#process">Process</a> ·
   <a href="#inner-page">Inner page</a>
 </p>
 
@@ -29,4 +30,16 @@
 
 ```
 
-I present my <b>Second project</b> from <b>Foundation Course</b> for <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a>. The goal of this project was to create a landing page on any interesting topic using HTML, CSS and JavaScript (optional). The site must contain a header, footer and four content sections.
+I present my **Second project** from **Foundation Course** for <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a>. I chose the **Foundation series** as the theme for this **"Landing page"**, based on the award-winning novels by **Isaac Asimov**, **Foundation chronicles**. By the will of the slush, the name of the series and the course coincided, although initially I thought of taking the topic based on the **"John Wick 4"** series. 
+
+<br>
+
+## Goals
+
+The goal of this project was to create a **"Landing page"** on any interesting topic using `HTML`, `CSS` and `JavaScript` (optional). The site must contain a `header`, `footer` and four content `sections`. 
+
+<br>
+
+## Process
+
+I started with a blank `HTML` page, adding all the content elements. Then I added a `CSS` file for the styles. As I created the `sections`, I had to learn a lot of new information on CSS and delve a little deeper into JavaScript to create the `navigation bar`, `banner`, and `video`.
