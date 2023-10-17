@@ -29,4 +29,4 @@
 
 ```
 
-I present my <b>Second project</b> from Foundation Course for The Odin Project.
+I present my <b>Second project</b> from <b>Foundation Course</b> for <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a>. The goal of this project was to create a landing page on any interesting topic using HTML, CSS and JavaScript (optional). The site must contain a header, footer and four content sections.
