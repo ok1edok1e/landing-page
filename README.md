@@ -35,6 +35,7 @@ I present my **Second project** from **Foundation Course** for <a href="https://
 
 <br>
 
+![Foundation - Landing](https://github.com/ok1edok1e/landing-page/blob/main/assets/github-landing.webp?raw=true)
 ## GOALS
 
 This project aimed to create a **"Landing page"** on any interesting topic using `HTML`, `CSS`, and `JavaScript` (optional). The site must contain a `header`, `footer`, and four content `sections`. 
@@ -61,6 +62,25 @@ Also, to understand the visual style and states of `elements` on the page, a **S
 
 ![Foundation - Styleguide](https://github.com/ok1edok1e/landing-page/blob/main/assets/github-styleguide.webp?raw=true)
 
+<br>
+
+### Navigation
+
+For quick navigation between `sections`, a **Navigation bar** was created. By clicking on each of these `links`, you can jump to the selected `section`. This element was developed using `JavaScript`.
+
+<br>
+
+![Foundation - Menu](https://github.com/ok1edok1e/landing-page/blob/main/assets/github-menu.webp?raw=true)
+
+<br>
+
+### Banner
+
+A **Banner** has also been added to offer promotions. This `element` was developed using `JavaScript`.
+
+![Foundation - Styleguide](https://github.com/ok1edok1e/landing-page/blob/main/assets/github-banner.webp?raw=true)
+
+<br>
 
 ## Process
 
