@@ -30,13 +30,13 @@
 
 ```
 
-I present my **Second project** from **Foundation Course** for <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a>. I chose the **Foundation series** as the theme for this **"Landing page"**, based on the award-winning novels by **Isaac Asimov**, **Foundation chronicles**. By the will of the slush, the name of the series and the course coincided, although initially I thought of taking the topic based on the **"John Wick 4"** series. 
+I present my **Second project** from **Foundation Course** for <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a>. I chose the **Foundation series** as the theme for this **"Landing page"**, based on the award-winning novels by **Isaac Asimov**, **Foundation Chronicles**. By the will of the slush, the name of the series and the course coincided, although initially, I thought of taking the topic based on the **"John Wick 4"** series. 
 
 <br>
 
 ## Goals
 
-The goal of this project was to create a **"Landing page"** on any interesting topic using `HTML`, `CSS` and `JavaScript` (optional). The site must contain a `header`, `footer` and four content `sections`. 
+This project aimed to create a **"Landing page"** on any interesting topic using `HTML`, `CSS`, and `JavaScript` (optional). The site must contain a `header`, `footer`, and four content `sections`. 
 
 <br>
 
