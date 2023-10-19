@@ -32,7 +32,9 @@
 
 ```
 
-I present my **Second project** from **Foundation Course** for <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a>. I chose the **Foundation series** as the theme for this **"Landing page"**, based on the award-winning novels by **Isaac Asimov**, **Foundation Chronicles**. By the will of the slush, the name of the series and the course coincided, although initially, I thought of taking the topic based on the **"John Wick 4"** series. 
+I present my **Second project** from **Foundation Course** for <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a>. I chose the **Foundation series** as the theme for this **"Landing page"**, based on the award-winning novels by **Isaac Asimov**, **Foundation Chronicles**. By the will of the slush, the name of the series and the course coincided, although initially, I thought of taking the topic based on the **"John Wick 4"** series.
+
+This concept was developed based on the <a href="https://tv.apple.com/us/show/foundation/umc.cmc.5983fipzqbicvrve6jdfep4x3?ctx_brand=tvs.sbd.4000" target="_blank">Apple TV</a> service page for the series of the same name. All materials belong to the Apple TV service and the <a href="https://foundation.fandom.com/wiki/Foundation_Wiki" target="_blank">Fandom</a> service.
 
 <br>
 
