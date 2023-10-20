@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="css/style.css">
   <title>Foundation - The Odin Project</title>
   <script defer src="scripts/scroll.js"></script>
 </head>
@@ -22,7 +22,7 @@
         </svg>
         <input type="text" name="text" placeholder="Search">
       </div>
-      <button class="button__secondary--sm">
+      <button class="button__secondary--sm--sel">
         <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
           xmlns="http://www.w3.org/2000/svg">
           <path
@@ -144,7 +144,7 @@
       </div>
       <div class="overview__gradient"></div>
       <div id="overview__video-wrapper">
-        <video autoplay loop>
+        <video id="video-background" muted autoplay loop>
           <source src="videos/cover.webm" type="video/webm">
         </video>
       </div>
@@ -167,21 +167,21 @@
         <div class="season__info-img--slider">
           <div class="season__info-img">
             <video class="video__preview" width="268" height="151" preload="images/episode-1.webp"
-              autoplay loop>
+              muted autoplay loop>
               <source src="videos/video-s1e1.mp4" type="video/mp4">
             </video>
           </div>
           <div class="season__info-img">
-            <img src="images/episode-2.webp" alt="Episode 2" onclick="myFunction(this);">
+            <img src="images/episode-2.webp" alt="Episode 2">
           </div>
           <div class="season__info-img">
-            <img src="images/episode-3.webp" alt="Episode 3" onclick="myFunction(this);">
+            <img src="images/episode-3.webp" alt="Episode 3">
           </div>
           <div class="season__info-img">
-            <img src="images/episode-4.webp" alt="Episode 4" onclick="myFunction(this);">
+            <img src="images/episode-4.webp" alt="Episode 4">
           </div>
           <div class="season__info-img">
-            <img src="images/episode-5.webp" alt="Episode 5" onclick="myFunction(this);">
+            <img src="images/episode-5.webp" alt="Episode 5">
           </div>
         </div>
         <div class="season__info-episode">
@@ -205,7 +205,7 @@
             <p>Sep 24, 2021</p>
           </div>
           <div class="season__info-slider-nav">
-            <button id="button__prev">
+            <button class="button__icon-prev--sel">
               <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
                 xmlns="http://www.w3.org/2000/svg">
                 <path
@@ -213,7 +213,7 @@
                   fill="#999" />
               </svg>
             </button>
-            <button id="button__next">
+            <button class="button__icon-next--sel">
               <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
                 xmlns="http://www.w3.org/2000/svg">
                 <path
@@ -259,7 +259,7 @@
 
     <section id="cast" class="section">
       <div class="cast__info">
-        <div class="cast__info-char">
+        <div class="cast__info-char--left">
           <img class="cast__char-l" src="images/char-BrotherDusk.webp" alt="">
           <img class="cast__char-l" src="images/char-SalvorHardin.webp" alt="">
           <img class="cast__char-l" src="images/char-BrotherDawn.webp" alt="">
@@ -273,7 +273,7 @@
           </div>
           <p>Professor of Probability Theory at Streeling University</p>
         </div>
-        <div class="cast__info-char">
+        <div class="cast__info-char--right">
           <img class="cast__char-r" src="images/char-BrotherDay.webp" alt="">
           <img class="cast__char-r" src="images/char-GaalDornick.webp" alt="">
           <img class="cast__char-r" src="images/char-Demerzel.webp" alt="">
