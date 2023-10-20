@@ -1,4 +1,4 @@
-![Odin Project - Foundation](https://github.com/ok1edok1e/landing-page/blob/main/assets/github-preview.webp?raw=true)
+![The Odin Project - Foundation](https://github.com/ok1edok1e/landing-page/blob/main/assets/github-preview.webp?raw=true)
 
 <h1 align="center">F O U N D A T I O N</h1>
 <p align="center">
@@ -14,10 +14,9 @@
 
 <p align="center">
   <a href="#introduction">INTRODUCTION</a> ·
-  <a href="#goals">GOALS</a> ·
+  <a href="#assignment">ASSIGNMENT</a> ·
   <a href="#design">DESIGN</a> ·
-  <a href="#process">PROCESS</a> ·
-  <a href="#inner-page">Inner page</a>
+  <a href="#conclusion">CONCLUSION</a>
 </p>
 
 <br>
@@ -34,14 +33,19 @@
 
 I present my **Second project** from **Foundation Course** for <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a>. I chose the **Foundation series** as the theme for this **"Landing page"**, based on the award-winning novels by **Isaac Asimov**, **Foundation Chronicles**. By the will of the slush, the name of the series and the course coincided, although initially, I thought of taking the topic based on the **"John Wick 4"** series.
 
-This concept was developed based on the <a href="https://tv.apple.com/us/show/foundation/umc.cmc.5983fipzqbicvrve6jdfep4x3?ctx_brand=tvs.sbd.4000" target="_blank">Apple TV</a> service page for the series of the same name. All materials belong to the Apple TV service and the <a href="https://foundation.fandom.com/wiki/Foundation_Wiki" target="_blank">Fandom</a> service.
-
 <br>
 
 ![Foundation - Landing](https://github.com/ok1edok1e/landing-page/blob/main/assets/github-landing.webp?raw=true)
-## GOALS
 
-This project aimed to create a **"Landing page"** on any interesting topic using `HTML`, `CSS`, and `JavaScript` (optional). The site must contain a `header`, `footer`, and four content `sections`. 
+<br>
+
+## ASSIGNMENT
+
+This project aimed to create a **"Landing page"** on any interesting topic using `HTML`, `CSS`, and `JavaScript` (optional). The site must contain a `header`, `footer`, and four content `sections`.  <a href="https://www.theodinproject.com/lessons/foundations-landing-page">Link to source</a>
+
+<br>
+
+![Foundation - Assignment](https://github.com/ok1edok1e/landing-page/blob/main/assets/github-assignment.webp?raw=true)
 
 <br>
 
@@ -81,10 +85,19 @@ For quick navigation between `sections`, a **Navigation bar** was created. By cl
 
 A **Banner** has also been added to offer promotions. This `element` was developed using `JavaScript`.
 
-![Foundation - Styleguide](https://github.com/ok1edok1e/landing-page/blob/main/assets/github-banner.webp?raw=true)
+![Foundation - Banner](https://github.com/ok1edok1e/landing-page/blob/main/assets/github-banner.webp?raw=true)
 
 <br>
 
-## Process
+## CONCLUSION
 
-I started with a blank `HTML` page, adding all the content elements. Then I added a `CSS` file for the styles. As I created the `sections`, I had to learn a lot of new information on `CSS` and delve a little deeper into `JavaScript` to create the `navigation bar`, `banner`, and `video`.
+While working on this "Landing page", I learned a lot of new information about `CSS` that was not covered in this course. I also had to learn a bit about `JavaScript` to implement some `elements` on the page.
+The project helped me to test myself as a beginner **Frontend Developer** and to understand how a kitchen works from the inside. This has given me the strength and interest to continue my career as a **Full Stack Developer.**
+
+This concept was developed based on the <a href="https://tv.apple.com/us/show/foundation/umc.cmc.5983fipzqbicvrve6jdfep4x3?ctx_brand=tvs.sbd.4000" target="_blank">Apple TV</a> service page for the series of the same name. All materials belong to the Apple TV service and the <a href="https://foundation.fandom.com/wiki/Foundation_Wiki" target="_blank">Fandom</a> service.
+
+<br>
+
+<p align="center">
+Made <em>with</em> ❤ <em>by</em> <b>Alex Freedman.</b>
+</p>
