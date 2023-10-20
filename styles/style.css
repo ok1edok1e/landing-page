@@ -74,7 +74,7 @@
 
 #cast {
   background-image: linear-gradient(to bottom, hsla(0, 0%, 0%, 0),
-      hsl(0, 0%, 10%)), url("../images/char-HariSeldon.webp");
+      hsl(0, 0%, 10%)), url("images/char-HariSeldon.webp");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
