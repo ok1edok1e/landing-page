@@ -33,8 +33,6 @@
 
 I present my **Second project** from **Foundation Course** for <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a>. I chose the **Foundation series** as the theme for this **"Landing page"**, based on the award-winning novels by **Isaac Asimov**, **Foundation Chronicles**. By the will of the slush, the name of the series and the course coincided, although initially, I thought of taking the topic based on the **"John Wick 4"** series.
 
-This concept was developed based on the <a href="https://tv.apple.com/us/show/foundation/umc.cmc.5983fipzqbicvrve6jdfep4x3?ctx_brand=tvs.sbd.4000" target="_blank">Apple TV</a> service page for the series of the same name. All materials belong to the Apple TV service and the <a href="https://foundation.fandom.com/wiki/Foundation_Wiki" target="_blank">Fandom</a> service.
-
 <br>
 
 ![Foundation - Landing](https://github.com/ok1edok1e/landing-page/blob/main/assets/github-landing.webp?raw=true)
@@ -93,4 +91,13 @@ A **Banner** has also been added to offer promotions. This `element` was develop
 
 ## CONCLUSION
 
-I started with a blank `HTML` page, adding all the content elements. Then I added a `CSS` file for the styles. As I created the `sections`, I had to learn a lot of new information on `CSS` and delve a little deeper into `JavaScript` to create the `navigation bar`, `banner`, and `video`.
+While working on this "Landing page", I learned a lot of new information about `CSS` that was not covered in this course. I also had to learn a bit about `JavaScript` to implement some `elements` on the page.
+The project helped me to test myself as a beginner **Frontend Developer** and to understand how a kitchen works from the inside. This has given me the strength and interest to continue my career as a **Full Stack Developer.**
+
+This concept was developed based on the <a href="https://tv.apple.com/us/show/foundation/umc.cmc.5983fipzqbicvrve6jdfep4x3?ctx_brand=tvs.sbd.4000" target="_blank">Apple TV</a> service page for the series of the same name. All materials belong to the Apple TV service and the <a href="https://foundation.fandom.com/wiki/Foundation_Wiki" target="_blank">Fandom</a> service.
+
+<br>
+
+<p align="center">
+Made <em>with</em> ❤ <em>by</em> <b>Alex Freedman.</b>
+</p>
