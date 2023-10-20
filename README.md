@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ok1edok1e.github.io/landing-page/" target="_blank">Go to Live Preview</a>
+  <a href="https://ok1edok1e.github.io/landing-page/index.html" target="_blank">Go to Live Preview</a>
 </p>
 
 <br>
