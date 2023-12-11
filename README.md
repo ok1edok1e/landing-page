@@ -99,5 +99,5 @@ This concept was developed based on the <a href="https://tv.apple.com/us/show/fo
 <br>
 
 <p align="center">
-Made <em>with</em> ❤ <em>by</em> <b>Alex Freedman.</b>
+Made <em>with</em> ❤ <em>by</em> <b>Alex Anufrienko.</b>
 </p>
